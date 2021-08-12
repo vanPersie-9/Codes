@@ -1,0 +1,8 @@
+Sources:
+    https://cp-algorithms.com/data_structures/sparse-table.html
+    https://www.hackerearth.com/practice/notes/sparse-table/
+    https://www.geeksforgeeks.org/sparse-table/
+
+Practice:
+    https://codeforces.com/contest/1549/problem/D
+    https://www.hackerrank.com/contests/codeagon2015/challenges/sherlock-and-subarray-queries
